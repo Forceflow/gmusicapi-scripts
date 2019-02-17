@@ -8,4 +8,4 @@ I'm maintaining these set of scripts for people who have uploaded their music co
 
 # Installation
 
-To use these scripts, you need gmusicapi-wrapper 0.7.x, which can be found [here]https://github.com/Forceflow/gmusicapi-wrapper.
+To use these scripts, you need gmusicapi-wrapper 0.7.x, which can be found [here](https://github.com/Forceflow/gmusicapi-wrapper).
